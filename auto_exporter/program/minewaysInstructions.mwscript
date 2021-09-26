@@ -1,0 +1,13 @@
+Set render type: Wavefront OBJ absolute indices
+
+File type: Export full color texture patterns
+Texture output RGB: no
+Texture output A: no
+Texture output RGBA: no
+
+Material per family: Yes
+//G3D full material: YES
+
+Give more export memory: YES
+
+Close
